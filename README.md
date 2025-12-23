@@ -24,7 +24,7 @@
 
 ## 代码结构
 ```bash
-cinetation //镜头控制器，用于调试
+cinestation //镜头控制器，用于调试
 components //自定义组件
 controllers //游戏控制器，镜头、手、飞船等控制器
 datas //游戏数据
